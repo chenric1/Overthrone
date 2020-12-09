@@ -1,0 +1,35 @@
+Event	ID	Name			Wwise Object Path	Notes
+	779278001	Death			\Default Work Unit\Death	
+	979765101	Win			\Default Work Unit\Win	
+	1281810935	Start			\Default Work Unit\Start	
+	2110808646	Roam			\Default Work Unit\Roam	
+	2454616260	Sword			\Default Work Unit\Sword	
+	2764240573	Combat			\Default Work Unit\Combat	
+	3571255931	Trigger			\Default Work Unit\Trigger	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2764240573	Combat			\Default Work Unit\Combat	
+	3893417221	Weapon			\Default Work Unit\Weapon	
+
+State	ID	Name	State Group			Notes
+	514064485	Fight	Combat			
+	748895195	None	Combat			
+	3753286132	Calm	Combat			
+	748895195	None	Weapon			
+	1904864137	Torch	Weapon			
+	2454616260	Sword	Weapon			
+	3354297748	Empty	Weapon			
+
+Trigger	ID	Name			Wwise Object Path	Notes
+	1637893056	Cybmal_Trigger			\Default Work Unit\Cybmal_Trigger	
+	3985310379	Cybal_Trigger2			\Default Work Unit\Cybal_Trigger2	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	64738020	Overthrone(Intro-Loop)	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Overthrone(Intro-Loop)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Main\Intro\Overthrone(Intro-Loop)\Overthrone(Intro-Loop)		9163704
+	223227156	Overthrone(Bridge pt 2)	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Overthrone(Bridge pt 2)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Main\Bridge\Overthrone(Bridge pt 2)\Overthrone(Bridge pt 2)		7330976
+	420728566	Overthrone(Intro)	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Overthrone(Intro)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Main\Intro\Overthrone(Intro)\Overthrone(Intro)		5498248
+	430769076	Overthrone(Main)	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Overthrone(Main)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Main\Main\Overthrone(Main)\Overthrone(Main)		9163704
+	546479878	Stinger (Cymbal)	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Stinger (Cymbal)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Stinger_01\Stinger (Cymbal)		872792
+	793936758	Overthrone(Bridge pt 3)	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Overthrone(Bridge pt 3)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Main\Bridge\Overthrone(Bridge pt 3)\Overthrone(Bridge pt 3)		5498248
+	965536565	Overthrone(Bridge pt 1)	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Overthrone(Bridge pt 1)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Main\Bridge\Overthrone(Bridge pt 1)\Overthrone(Bridge pt 1)		5498248
+

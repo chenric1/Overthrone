@@ -1,0 +1,71 @@
+Event	ID	Name			Wwise Object Path	Notes
+	180661997	Attack			\SFX\Attack	
+	391172934	EnemyHit			\SFX\EnemyHit	
+	530129416	Teleport			\SFX\Teleport	
+	690673148	Shiedl2			\SFX\Shiedl2	
+	690673151	Shiedl1			\SFX\Shiedl1	
+	894997553	TorchStop			\SFX\TorchStop	
+	1116398592	Hit			\SFX\Hit	
+	1138148823	FlamethrowerStop			\SFX\FlamethrowerStop	
+	1158554481	FireStop			\SFX\FireStop	
+	1161967626	Shield			\SFX\Shield	
+	1183067778	Key			\SFX\Key	
+	1656947812	PlayerDeath			\SFX\PlayerDeath	
+	1904864137	Torch			\SFX\Torch	
+	2276795036	TreeHit			\SFX\TreeHit	
+	2678880713	Fire			\SFX\Fire	
+	2818564981	FlamethrowerStart			\SFX\FlamethrowerStart	
+	3024459416	Toss			\SFX\Toss	
+	3062523241	Miss			\SFX\Miss	
+	3202316517	Switch			\SFX\Switch	
+	3249137159	EnemyDeath			\SFX\EnemyDeath	
+	3677180323	Health			\SFX\Health	
+	3831688773	PlayerHit			\SFX\PlayerHit	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1161967626	Shield			\Default Work Unit\Shield	
+
+Switch	ID	Name	Switch Group			Notes
+	289290124	Shield2	Shield			
+	289290127	Shield1	Shield			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3392031979	HitOrMiss			\Default Work Unit\HitOrMiss	
+	3893417221	Weapon			\Default Work Unit\Weapon	
+
+State	ID	Name	State Group			Notes
+	748895195	None	HitOrMiss			
+	1116398592	Hit	HitOrMiss			
+	3062523241	Miss	HitOrMiss			
+	748895195	None	Weapon			
+	1904864137	Torch	Weapon			
+	2454616260	Sword	Weapon			
+	3354297748	Empty	Weapon			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5017975	Soft metal hit	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Soft metal hit_5E5FCD62.wem		\Actor-Mixer Hierarchy\Default Work Unit\Metal Hit\Soft metal hit		127312
+	35201972	torch	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\torch_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapon\torch		523704
+	92621226	health	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\health_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\health		305520
+	165340454	flametrhow	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\flametrhow_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\flametrhow		288064
+	269984115	player hit2	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\player hit2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Hit\player hit2		92792
+	278239997	tree1	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\tree1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tree Hit\tree1		87340
+	291748295	enemy death	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\enemy death_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy death		370976
+	308684766	key	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\key_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\key		305520
+	308953619	player death	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\player death_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\player death		436428
+	328214411	tree5	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\tree5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tree Hit\tree5		32792
+	367452026	enemy hit2	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\enemy hit2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Hit\enemy hit2		49156
+	431004807	tree2	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\tree2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tree Hit\tree2		65520
+	442451279	enemy hit 1	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\enemy hit 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Hit\enemy hit 1		43704
+	447430090	onFire	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\onFire_3EE77BE1.wem		\Actor-Mixer Hierarchy\Default Work Unit\onFire		523768
+	480260941	Shield1	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Shield1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shield\Shield1		192064
+	526895650	player hit1	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\player hit1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Hit\player hit1		109156
+	569283969	lever	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\lever_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\lever		43704
+	602345885	teleport	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\teleport_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\teleport		829156
+	761978386	shield2	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\shield2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shield\shield2		192064
+	820054770	player hit3	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\player hit3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Hit\player hit3		130976
+	852182543	hard metal hid	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\hard metal hid_553DD1EE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Metal Hit\hard metal hid		169732
+	904844500	Swing n miss	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\Swing n miss_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Swing n miss		305520
+	961826528	tree4	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\tree4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tree Hit\tree4		54612
+	1000403868	enemy hit3	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\enemy hit3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Hit\enemy hit3		68248
+	1044971069	medium metal hit	Z:\Volumes\External HD\Wwise\Overthrone\.cache\Windows\SFX\medium metal hit_5CE490D9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Metal Hit\medium metal hit		143856
+

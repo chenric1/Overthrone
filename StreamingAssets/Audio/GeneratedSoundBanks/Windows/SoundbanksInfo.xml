@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>/Users/alex/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/External HD/Wwise/Overthrone/</ProjectRoot>
+		<SourceFilesRoot>/Users/alex/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/External HD/Wwise/Overthrone/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/alex/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/External HD/Wwise/Overthrone/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/alex/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/External HD/Wwise/Overthrone/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="393239870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\SFX</ObjectPath>
+			<ShortName>SFX</ShortName>
+			<Path>SFX.bnk</Path>
+			<IncludedEvents>
+				<Event Id="180661997" Name="Attack" ObjectPath="\Events\SFX\Attack" DurationType="OneShot" DurationMin="1.590917" DurationMax="1.590917">
+					<IncludedMemoryFiles>
+						<File Id="904844500" Language="SFX">
+							<ShortName>Swing n miss.wav</ShortName>
+							<Path>SFX/Swing n miss_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3249137159" Name="EnemyDeath" ObjectPath="\Events\SFX\EnemyDeath" DurationType="OneShot" DurationMin="1.931833" DurationMax="1.931833">
+					<IncludedMemoryFiles>
+						<File Id="291748295" Language="SFX">
+							<ShortName>enemy death.wav</ShortName>
+							<Path>SFX/enemy death_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="391172934" Name="EnemyHit" ObjectPath="\Events\SFX\EnemyHit" DurationType="OneShot" DurationMin="0.662760" DurationMax="0.883681">
+					<IncludedMemoryFiles>
+						<File Id="5017975" Language="SFX">
+							<ShortName>Soft metal hit.wav</ShortName>
+							<Path>SFX/Soft metal hit_5E5FCD62.wem</Path>
+						</File>
+						<File Id="367452026" Language="SFX">
+							<ShortName>enemy hit2.wav</ShortName>
+							<Path>SFX/enemy hit2_10C4C929.wem</Path>
+						</File>
+						<File Id="442451279" Language="SFX">
+							<ShortName>enemy hit 1.wav</ShortName>
+							<Path>SFX/enemy hit 1_10C4C929.wem</Path>
+						</File>
+						<File Id="852182543" Language="SFX">
+							<ShortName>hard metal hid.wav</ShortName>
+							<Path>SFX/hard metal hid_553DD1EE.wem</Path>
+						</File>
+						<File Id="1000403868" Language="SFX">
+							<ShortName>enemy hit3.wav</ShortName>
+							<Path>SFX/enemy hit3_10C4C929.wem</Path>
+						</File>
+						<File Id="1044971069" Language="SFX">
+							<ShortName>medium metal hit.wav</ShortName>
+							<Path>SFX/medium metal hit_5CE490D9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2678880713" Name="Fire" ObjectPath="\Events\SFX\Fire" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="6.827699" DurationMax="6.827699">
+					<IncludedMemoryFiles>
+						<File Id="447430090" Language="SFX">
+							<ShortName>onFire.wav</ShortName>
+							<Path>SFX/onFire_3EE77BE1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1158554481" Name="FireStop" ObjectPath="\Events\SFX\FireStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2818564981" Name="FlamethrowerStart" ObjectPath="\Events\SFX\FlamethrowerStart" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="165340454" Language="SFX">
+							<ShortName>flametrhow.wav</ShortName>
+							<Path>SFX/flametrhow_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1138148823" Name="FlamethrowerStop" ObjectPath="\Events\SFX\FlamethrowerStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3677180323" Name="Health" ObjectPath="\Events\SFX\Health" DurationType="OneShot" DurationMin="1.590917" DurationMax="1.590917">
+					<IncludedMemoryFiles>
+						<File Id="92621226" Language="SFX">
+							<ShortName>health.wav</ShortName>
+							<Path>SFX/health_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1116398592" Name="Hit" ObjectPath="\Events\SFX\Hit" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1183067778" Name="Key" ObjectPath="\Events\SFX\Key" DurationType="OneShot" DurationMin="1.590917" DurationMax="1.590917">
+					<IncludedMemoryFiles>
+						<File Id="308684766" Language="SFX">
+							<ShortName>key.wav</ShortName>
+							<Path>SFX/key_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3062523241" Name="Miss" ObjectPath="\Events\SFX\Miss" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1656947812" Name="PlayerDeath" ObjectPath="\Events\SFX\PlayerDeath" DurationType="OneShot" DurationMin="2.272729" DurationMax="2.272729">
+					<IncludedMemoryFiles>
+						<File Id="308953619" Language="SFX">
+							<ShortName>player death.wav</ShortName>
+							<Path>SFX/player death_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3831688773" Name="PlayerHit" ObjectPath="\Events\SFX\PlayerHit" DurationType="OneShot" DurationMin="0.662760" DurationMax="0.883681">
+					<IncludedMemoryFiles>
+						<File Id="5017975" Language="SFX">
+							<ShortName>Soft metal hit.wav</ShortName>
+							<Path>SFX/Soft metal hit_5E5FCD62.wem</Path>
+						</File>
+						<File Id="269984115" Language="SFX">
+							<ShortName>player hit2.wav</ShortName>
+							<Path>SFX/player hit2_10C4C929.wem</Path>
+						</File>
+						<File Id="526895650" Language="SFX">
+							<ShortName>player hit1.wav</ShortName>
+							<Path>SFX/player hit1_10C4C929.wem</Path>
+						</File>
+						<File Id="820054770" Language="SFX">
+							<ShortName>player hit3.wav</ShortName>
+							<Path>SFX/player hit3_10C4C929.wem</Path>
+						</File>
+						<File Id="852182543" Language="SFX">
+							<ShortName>hard metal hid.wav</ShortName>
+							<Path>SFX/hard metal hid_553DD1EE.wem</Path>
+						</File>
+						<File Id="1044971069" Language="SFX">
+							<ShortName>medium metal hit.wav</ShortName>
+							<Path>SFX/medium metal hit_5CE490D9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="690673151" Name="Shiedl1" ObjectPath="\Events\SFX\Shiedl1" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="690673148" Name="Shiedl2" ObjectPath="\Events\SFX\Shiedl2" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1161967626" Name="Shield" ObjectPath="\Events\SFX\Shield" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000">
+					<IncludedMemoryFiles>
+						<File Id="480260941" Language="SFX">
+							<ShortName>Shield1.wav</ShortName>
+							<Path>SFX/Shield1_10C4C929.wem</Path>
+						</File>
+						<File Id="761978386" Language="SFX">
+							<ShortName>shield2.wav</ShortName>
+							<Path>SFX/shield2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{9DDF4661-6DE2-4909-A3C6-82F0544F5489}">
+							<Media>
+								<File Id="761978386"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E58B6679-D031-4DD6-B8FB-DD24F5BA5E2F}">
+							<Media>
+								<File Id="480260941"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3202316517" Name="Switch" ObjectPath="\Events\SFX\Switch" DurationType="OneShot" DurationMin="0.227292" DurationMax="0.227292">
+					<IncludedMemoryFiles>
+						<File Id="569283969" Language="SFX">
+							<ShortName>lever.wav</ShortName>
+							<Path>SFX/lever_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="530129416" Name="Teleport" ObjectPath="\Events\SFX\Teleport" DurationType="OneShot" DurationMin="4.318188" DurationMax="4.318188">
+					<IncludedMemoryFiles>
+						<File Id="602345885" Language="SFX">
+							<ShortName>teleport.wav</ShortName>
+							<Path>SFX/teleport_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1904864137" Name="Torch" ObjectPath="\Events\SFX\Torch" DurationType="OneShot" DurationMin="2.727292" DurationMax="2.727292">
+					<IncludedMemoryFiles>
+						<File Id="35201972" Language="SFX">
+							<ShortName>torch.wav</ShortName>
+							<Path>SFX/torch_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="894997553" Name="TorchStop" ObjectPath="\Events\SFX\TorchStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3024459416" Name="Toss" ObjectPath="\Events\SFX\Toss" DurationType="OneShot" DurationMin="1.816958" DurationMax="1.816958">
+					<IncludedMemoryFiles>
+						<File Id="904844500" Language="SFX">
+							<ShortName>Swing n miss.wav</ShortName>
+							<Path>SFX/Swing n miss_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2276795036" Name="TreeHit" ObjectPath="\Events\SFX\TreeHit" DurationType="OneShot" DurationMin="0.342892" DurationMax="0.914392">
+					<IncludedMemoryFiles>
+						<File Id="278239997" Language="SFX">
+							<ShortName>tree1.wav</ShortName>
+							<Path>SFX/tree1_10C4C929.wem</Path>
+						</File>
+						<File Id="328214411" Language="SFX">
+							<ShortName>tree5.wav</ShortName>
+							<Path>SFX/tree5_10C4C929.wem</Path>
+						</File>
+						<File Id="431004807" Language="SFX">
+							<ShortName>tree2.wav</ShortName>
+							<Path>SFX/tree2_10C4C929.wem</Path>
+						</File>
+						<File Id="961826528" Language="SFX">
+							<ShortName>tree4.wav</ShortName>
+							<Path>SFX/tree4_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="1161967626" Name="Shield" ObjectPath="\Switches\Default Work Unit\Shield">
+					<Switches>
+						<Switch Id="289290127" Name="Shield1" ObjectPath="\Switches\Default Work Unit\Shield\Shield1"/>
+						<Switch Id="289290124" Name="Shield2" ObjectPath="\Switches\Default Work Unit\Shield\Shield2"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="895876930" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\WTF</ObjectPath>
+			<ShortName>WTF</ShortName>
+			<Path>WTF.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2764240573" Name="Combat" ObjectPath="\Events\Default Work Unit\Combat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="779278001" Name="Death" ObjectPath="\Events\Default Work Unit\Death" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2110808646" Name="Roam" ObjectPath="\Events\Default Work Unit\Roam" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1281810935" Name="Start" ObjectPath="\Events\Default Work Unit\Start" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="64738020" Language="SFX">
+							<ShortName>Overthrone(Intro-Loop).wav</ShortName>
+							<Path>SFX/Overthrone(Intro-Loop)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="223227156" Language="SFX">
+							<ShortName>Overthrone(Bridge pt 2).wav</ShortName>
+							<Path>SFX/Overthrone(Bridge pt 2)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="420728566" Language="SFX">
+							<ShortName>Overthrone(Intro).wav</ShortName>
+							<Path>SFX/Overthrone(Intro)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="430769076" Language="SFX">
+							<ShortName>Overthrone(Main).wav</ShortName>
+							<Path>SFX/Overthrone(Main)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="546479878" Language="SFX">
+							<ShortName>Stinger (Cymbal).wav</ShortName>
+							<Path>SFX/Stinger (Cymbal)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="793936758" Language="SFX">
+							<ShortName>Overthrone(Bridge pt 3).wav</ShortName>
+							<Path>SFX/Overthrone(Bridge pt 3)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="965536565" Language="SFX">
+							<ShortName>Overthrone(Bridge pt 1).wav</ShortName>
+							<Path>SFX/Overthrone(Bridge pt 1)_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{A5ADDD96-419C-4C79-A739-EE095D9D288F}">
+							<Children>
+								<SwitchContainer SwitchValue="{080B904C-BED8-4DFB-BF6F-221272DACBE7}">
+									<Media>
+										<File Id="546479878"/>
+										<File Id="546479878"/>
+										<File Id="420728566"/>
+										<File Id="64738020"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2C0733A6-B7F1-43BD-96B0-121F0FB8B4A4}">
+							<Children>
+								<SwitchContainer SwitchValue="{080B904C-BED8-4DFB-BF6F-221272DACBE7}">
+									<Media>
+										<File Id="430769076"/>
+										<File Id="430769076"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2C0733A6-B7F1-43BD-96B0-121F0FB8B4A4}">
+							<Children>
+								<SwitchContainer SwitchValue="{8E034393-7BA3-4E99-A290-B6F8BC5C5262}">
+									<Media>
+										<File Id="965536565"/>
+										<File Id="793936758"/>
+										<File Id="223227156"/>
+										<File Id="223227156"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{A5ADDD96-419C-4C79-A739-EE095D9D288F}">
+							<Children/>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2454616260" Name="Sword" ObjectPath="\Events\Default Work Unit\Sword" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3571255931" Name="Trigger" ObjectPath="\Events\Default Work Unit\Trigger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="979765101" Name="Win" ObjectPath="\Events\Default Work Unit\Win" DurationType="OneShot" DurationMin="4.545458" DurationMax="4.545458">
+					<IncludedMemoryFiles>
+						<File Id="546479878" Language="SFX">
+							<ShortName>Stinger (Cymbal).wav</ShortName>
+							<Path>SFX/Stinger (Cymbal)_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="2764240573" Name="Combat" ObjectPath="\States\Default Work Unit\Combat">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Combat\None"/>
+						<State Id="514064485" Name="Fight" ObjectPath="\States\Default Work Unit\Combat\Fight"/>
+						<State Id="3753286132" Name="Calm" ObjectPath="\States\Default Work Unit\Combat\Calm"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3893417221" Name="Weapon" ObjectPath="\States\Default Work Unit\Weapon">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Weapon\None"/>
+						<State Id="2454616260" Name="Sword" ObjectPath="\States\Default Work Unit\Weapon\Sword"/>
+						<State Id="1904864137" Name="Torch" ObjectPath="\States\Default Work Unit\Weapon\Torch"/>
+						<State Id="3354297748" Name="Empty" ObjectPath="\States\Default Work Unit\Weapon\Empty"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<Triggers>
+				<Trigger Id="1637893056" Name="Cybmal_Trigger" ObjectPath="\Triggers\Default Work Unit\Cybmal_Trigger"/>
+				<Trigger Id="3985310379" Name="Cybal_Trigger2" ObjectPath="\Triggers\Default Work Unit\Cybal_Trigger2"/>
+			</Triggers>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2764240573" Name="Combat" ObjectPath="\Events\Default Work Unit\Combat" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="779278001" Name="Death" ObjectPath="\Events\Default Work Unit\Death" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2110808646" Name="Roam" ObjectPath="\Events\Default Work Unit\Roam" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1281810935" Name="Start" ObjectPath="\Events\Default Work Unit\Start" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="64738020" Language="SFX">
+							<ShortName>Overthrone(Intro-Loop).wav</ShortName>
+							<Path>SFX/Overthrone(Intro-Loop)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="223227156" Language="SFX">
+							<ShortName>Overthrone(Bridge pt 2).wav</ShortName>
+							<Path>SFX/Overthrone(Bridge pt 2)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="420728566" Language="SFX">
+							<ShortName>Overthrone(Intro).wav</ShortName>
+							<Path>SFX/Overthrone(Intro)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="430769076" Language="SFX">
+							<ShortName>Overthrone(Main).wav</ShortName>
+							<Path>SFX/Overthrone(Main)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="546479878" Language="SFX">
+							<ShortName>Stinger (Cymbal).wav</ShortName>
+							<Path>SFX/Stinger (Cymbal)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="793936758" Language="SFX">
+							<ShortName>Overthrone(Bridge pt 3).wav</ShortName>
+							<Path>SFX/Overthrone(Bridge pt 3)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="965536565" Language="SFX">
+							<ShortName>Overthrone(Bridge pt 1).wav</ShortName>
+							<Path>SFX/Overthrone(Bridge pt 1)_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{A5ADDD96-419C-4C79-A739-EE095D9D288F}">
+							<Children>
+								<SwitchContainer SwitchValue="{080B904C-BED8-4DFB-BF6F-221272DACBE7}">
+									<Media>
+										<File Id="546479878"/>
+										<File Id="546479878"/>
+										<File Id="420728566"/>
+										<File Id="64738020"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2C0733A6-B7F1-43BD-96B0-121F0FB8B4A4}">
+							<Children>
+								<SwitchContainer SwitchValue="{080B904C-BED8-4DFB-BF6F-221272DACBE7}">
+									<Media>
+										<File Id="430769076"/>
+										<File Id="430769076"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2C0733A6-B7F1-43BD-96B0-121F0FB8B4A4}">
+							<Children>
+								<SwitchContainer SwitchValue="{8E034393-7BA3-4E99-A290-B6F8BC5C5262}">
+									<Media>
+										<File Id="965536565"/>
+										<File Id="793936758"/>
+										<File Id="223227156"/>
+										<File Id="223227156"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{A5ADDD96-419C-4C79-A739-EE095D9D288F}">
+							<Children/>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2454616260" Name="Sword" ObjectPath="\Events\Default Work Unit\Sword" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3571255931" Name="Trigger" ObjectPath="\Events\Default Work Unit\Trigger" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="979765101" Name="Win" ObjectPath="\Events\Default Work Unit\Win" DurationType="OneShot" DurationMin="4.545458" DurationMax="4.545458">
+					<IncludedMemoryFiles>
+						<File Id="546479878" Language="SFX">
+							<ShortName>Stinger (Cymbal).wav</ShortName>
+							<Path>SFX/Stinger (Cymbal)_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="2764240573" Name="Combat" ObjectPath="\States\Default Work Unit\Combat">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Combat\None"/>
+						<State Id="514064485" Name="Fight" ObjectPath="\States\Default Work Unit\Combat\Fight"/>
+						<State Id="3753286132" Name="Calm" ObjectPath="\States\Default Work Unit\Combat\Calm"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3893417221" Name="Weapon" ObjectPath="\States\Default Work Unit\Weapon">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Weapon\None"/>
+						<State Id="2454616260" Name="Sword" ObjectPath="\States\Default Work Unit\Weapon\Sword"/>
+						<State Id="1904864137" Name="Torch" ObjectPath="\States\Default Work Unit\Weapon\Torch"/>
+						<State Id="3354297748" Name="Empty" ObjectPath="\States\Default Work Unit\Weapon\Empty"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<Triggers>
+				<Trigger Id="1637893056" Name="Cybmal_Trigger" ObjectPath="\Triggers\Default Work Unit\Cybmal_Trigger"/>
+				<Trigger Id="3985310379" Name="Cybal_Trigger2" ObjectPath="\Triggers\Default Work Unit\Cybal_Trigger2"/>
+			</Triggers>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

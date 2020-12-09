@@ -1,0 +1,16 @@
+{
+"companyName": "MSU - MI497 - FS20",
+"productName": "Overthrone",
+"productVersion": "0.8.6",
+"dataUrl": "Overthrone_WebGL.data.unityweb",
+"wasmCodeUrl": "Overthrone_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Overthrone_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
